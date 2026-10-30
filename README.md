@@ -10,3 +10,8 @@ Start the server using node server.js and check your browser at localhost:9000 t
 
 
 Thank you for using this app!
+
+Tech Stack Used:
+HTML 
+CSS 
+JavaScript
