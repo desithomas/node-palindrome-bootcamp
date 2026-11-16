@@ -29,7 +29,7 @@ https://palindromeorkabob.netlify.app
 1. **Clone the repository:**
 
 ```bash
-git clone 
+git clone https://github.com/desithomas/node-palindrome-bootcamp.git.
 cd node-palindrome-bootcamp
 ```
 
